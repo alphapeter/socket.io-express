@@ -1,0 +1,13 @@
+{ "name"            : "socket.io-express"
+, "description"     : "socket io express session authorization"
+, "homepage"        : "https://github.com/alphapeter/socket.io-express"
+, "repository"      : "https://github.com/alphapeter/socket.io-express.git"
+, "version"         : "0.0.1"
+, "author"          : "Peter Klaesson"
+, "contributors"    : []
+, "keywords"        : 
+  ["socket.io", "express"]
+, "dependencies"    : { }
+, "main"            : "./socket.io-express.js"
+, "engines"         : { "node": ">=0.6.0" }
+}
