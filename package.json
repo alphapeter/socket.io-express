@@ -1,7 +1,7 @@
 { "name"            : "socket.io-express"
 , "description"     : "socket io express session authorization"
 , "homepage"        : "https://github.com/alphapeter/socket.io-express"
-, "repository"      : "https://github.com/alphapeter/socket.io-express.git"
+, "repository"      : "git://github.com/alphapeter/socket.io-express.git#0.0.1"
 , "version"         : "0.0.1"
 , "author"          : "Peter Klaesson"
 , "contributors"    : []
